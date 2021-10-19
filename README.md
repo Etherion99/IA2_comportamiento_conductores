@@ -20,5 +20,5 @@ Se cuenta con un conjunto de datos que presenta multiples imagenes de conductore
 <b>Modelos</b><br>
 Modelo VGG16 pre-entrenado con las últimas 2 capas descongeladas y conectado a 2 capas densas de 256 y 128 ambas con activación relu, optimizador Adam.
 
-<b>Enlaces</b>
+<b>Enlaces</b><br>
 <a href="https://github.com/Etherion99/IA2_comportamiento_conductores">(code)</a> <a href="https://www.youtube.com/watch?v=hc4-Ou34ukk">(video)</a> <a href="https://github.com/Etherion99/IA2_comportamiento_conductores/blob/main/presentaci%C3%B3n.pptx">(+info)</a>
